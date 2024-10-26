@@ -5,7 +5,7 @@
 In this project, I attempted to design hardware that could be used with the ISO 11783 (ISOBUS) protocol, a CAN-based communication protocol used in agricultural machinery, or a subset of it. I aimed to integrate this design into the Nuvoton ecosystem, with which I am familiar with.
 
 
-!(https://github.com/ihm3/ISO_VT/blob/main/doc/board.PNG?raw=true)
+![Board](https://github.com/ihm3/ISO_VT/blob/main/doc/board.PNG?raw=true)
 
 ## Features
 
@@ -19,7 +19,7 @@ In this project, I attempted to design hardware that could be used with the ISO 
 - IO pins for users
 
 
-!(https://github.com/ihm3/ISO_VT/doc/board.PNG)
+![CAD](https://github.com/ihm3/ISO_VT/blob/main/doc/cad.PNG?raw=true)
 
 
 ## Coming Soon
